@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>rat-whiskers-93118026-iStock_wildcat78-w2916.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/rat-whiskers-93118026-iStock_wildcat78-w2916.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>32</ymin>
+			<xmax>573</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

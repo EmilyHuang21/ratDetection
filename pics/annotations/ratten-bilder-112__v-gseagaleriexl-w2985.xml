@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>ratten-bilder-112__v-gseagaleriexl-w2985.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/ratten-bilder-112__v-gseagaleriexl-w2985.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>14</ymin>
+			<xmax>754</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

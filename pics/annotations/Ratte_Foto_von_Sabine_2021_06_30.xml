@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>Ratte_Foto_von_Sabine_2021_06_30.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/Ratte_Foto_von_Sabine_2021_06_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>462</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>93</ymin>
+			<xmax>362</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

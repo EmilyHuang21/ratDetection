@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>w960_h960_x480_y480_Ratte-d5c479ebb2fd2075-w3002.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/w960_h960_x480_y480_Ratte-d5c479ebb2fd2075-w3002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>138</ymin>
+			<xmax>825</xmax>
+			<ymax>727</ymax>
+		</bndbox>
+	</object>
+</annotation>

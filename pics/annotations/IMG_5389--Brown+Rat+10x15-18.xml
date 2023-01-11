@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>IMG_5389--Brown+Rat+10x15-18.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/IMG_5389--Brown+Rat+10x15-18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>665</width>
+		<height>443</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>61</ymin>
+			<xmax>466</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

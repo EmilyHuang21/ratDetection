@@ -1,0 +1,4 @@
+train: pics/train
+val: pics/test
+nc: 1
+names: ['rat']

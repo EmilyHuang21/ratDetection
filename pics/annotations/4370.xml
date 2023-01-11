@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>4370.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/4370.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>36</ymin>
+			<xmax>670</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>01-rat-tears-NationalGeographic_1031918-w3042.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/01-rat-tears-NationalGeographic_1031918-w3042.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>67</ymin>
+			<xmax>592</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

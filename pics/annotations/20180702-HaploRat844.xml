@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>20180702-HaploRat844.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/20180702-HaploRat844.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>124</ymin>
+			<xmax>391</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

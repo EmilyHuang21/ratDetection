@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>rat-orange-county.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/rat-orange-county.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>741</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>74</ymin>
+			<xmax>758</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>

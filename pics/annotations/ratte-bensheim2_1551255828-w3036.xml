@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>ratte-bensheim2_1551255828-w3036.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/ratte-bensheim2_1551255828-w3036.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>473</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>106</ymin>
+			<xmax>631</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

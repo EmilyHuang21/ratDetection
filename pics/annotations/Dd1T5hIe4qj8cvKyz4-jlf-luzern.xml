@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>Dd1T5hIe4qj8cvKyz4-jlf-luzern.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/Dd1T5hIe4qj8cvKyz4-jlf-luzern.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1083</width>
+		<height>602</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>31</ymin>
+			<xmax>1065</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

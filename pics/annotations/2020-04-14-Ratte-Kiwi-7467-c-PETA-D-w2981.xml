@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>2020-04-14-Ratte-Kiwi-7467-c-PETA-D-w2981.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/2020-04-14-Ratte-Kiwi-7467-c-PETA-D-w2981.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>652</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>28</ymin>
+			<xmax>594</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

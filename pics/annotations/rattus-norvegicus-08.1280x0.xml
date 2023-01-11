@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>rattus-norvegicus-08.1280x0.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/rattus-norvegicus-08.1280x0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>52</ymin>
+			<xmax>465</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

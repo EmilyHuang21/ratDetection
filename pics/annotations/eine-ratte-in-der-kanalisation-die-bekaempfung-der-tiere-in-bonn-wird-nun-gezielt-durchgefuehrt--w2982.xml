@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>eine-ratte-in-der-kanalisation-die-bekaempfung-der-tiere-in-bonn-wird-nun-gezielt-durchgefuehrt--w2982.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/eine-ratte-in-der-kanalisation-die-bekaempfung-der-tiere-in-bonn-wird-nun-gezielt-durchgefuehrt--w2982.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>343</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>5</ymin>
+			<xmax>474</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

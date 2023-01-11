@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>AdobeStock_163665866.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/AdobeStock_163665866.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1029</width>
+		<height>738</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>78</ymin>
+			<xmax>805</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>

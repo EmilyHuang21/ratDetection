@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>auf-frischer-tat-ertappt.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/auf-frischer-tat-ertappt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>689</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>31</ymin>
+			<xmax>498</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

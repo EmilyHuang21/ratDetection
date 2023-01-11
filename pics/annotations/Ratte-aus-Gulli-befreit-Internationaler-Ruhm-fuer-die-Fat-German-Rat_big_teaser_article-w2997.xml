@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>Ratte-aus-Gulli-befreit-Internationaler-Ruhm-fuer-die-Fat-German-Rat_big_teaser_article-w2997.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/Ratte-aus-Gulli-befreit-Internationaler-Ruhm-fuer-die-Fat-German-Rat_big_teaser_article-w2997.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>48</ymin>
+			<xmax>538</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

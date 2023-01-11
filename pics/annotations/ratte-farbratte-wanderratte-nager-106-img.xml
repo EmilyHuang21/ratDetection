@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>ratte-farbratte-wanderratte-nager-106-img.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/ratte-farbratte-wanderratte-nager-106-img.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>994</width>
+		<height>558</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>1</ymin>
+			<xmax>947</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>wanderratte-gross-15300.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/wanderratte-gross-15300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>223</ymin>
+			<xmax>825</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>

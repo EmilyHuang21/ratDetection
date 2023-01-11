@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>Unterschied-Maus-und-Ratte-w3004.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/Unterschied-Maus-und-Ratte-w3004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>729</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>15</ymin>
+			<xmax>686</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

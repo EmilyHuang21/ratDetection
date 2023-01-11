@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>Rat_kiwicare_oc_nz.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/Rat_kiwicare_oc_nz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>977</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>72</ymin>
+			<xmax>842</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

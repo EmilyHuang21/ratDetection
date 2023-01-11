@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>Ratten-Ernährung-1030x687.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/Ratten-Ernährung-1030x687.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1030</width>
+		<height>687</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>247</ymin>
+			<xmax>716</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

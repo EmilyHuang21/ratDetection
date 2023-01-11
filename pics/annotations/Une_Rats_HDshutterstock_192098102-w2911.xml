@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>Une_Rats_HDshutterstock_192098102-w2911.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/Une_Rats_HDshutterstock_192098102-w2911.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>6</ymin>
+			<xmax>725</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>young-gray-rat-isolated-on-black-background-rodent-pets-domesticated-rat-close-up-rat-sniffs-w3048.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/young-gray-rat-isolated-on-black-background-rodent-pets-domesticated-rat-close-up-rat-sniffs-w3048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>20</ymin>
+			<xmax>486</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

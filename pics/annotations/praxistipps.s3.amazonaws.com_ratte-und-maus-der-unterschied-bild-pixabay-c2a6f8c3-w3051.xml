@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rats</folder>
+	<filename>praxistipps.s3.amazonaws.com_ratte-und-maus-der-unterschied-bild-pixabay-c2a6f8c3-w3051.jpg</filename>
+	<path>/home/bnc/Bilderkennung/collection/rats/praxistipps.s3.amazonaws.com_ratte-und-maus-der-unterschied-bild-pixabay-c2a6f8c3-w3051.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>888</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>17</ymin>
+			<xmax>887</xmax>
+			<ymax>865</ymax>
+		</bndbox>
+	</object>
+</annotation>
